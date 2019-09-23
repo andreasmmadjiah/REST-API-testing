@@ -7,7 +7,7 @@ In this section, we deploy our already defined Random Forrest model, to data Cre
 - <i><b>age</i></b> is the age of to whom credit is owed to. Values usualy ranged from 18 to 70
 - <i><b>bill</i></b> is the amount of credit paid in the first month.
 
-We are deployed our model using pythonanywhere.com which you can access using POSTMAN (specificaly, POSTMAN extension from google chrome). 
+We are deployed our model using pythonanywhere.com which you can access using POSTMAN (specificaly, POSTMAN extension from google chrome). You can see our code in pythonanywhere.com by opening <i>Random_Forrest_API.py</i> or click [here](https://github.com/andreasmmadjiah/REST-API-testing/blob/master/Random_Forrest_API.py)
 
 ## Using Postman : How To
 
@@ -24,7 +24,7 @@ We are creating <b><i>random forrest</b></i> model, which is basicaly ensemble m
     ![](https://raw.githubusercontent.com/andreasmmadjiah/REST-API-testing/master/image/3.%20Change%20below%20tab%20jo%20body.PNG)
 8. Now you are ready. If you want to use only one observation for example limit=20000, age=24,bill=34000, then use this example format : <br>
 <i><b>{"limit":20000,"age":24,"bill":30000}</i></b> or <i><b>{"limit":[20000],"age":[24],"bill":[30000]}</i></b>. <br> if you want to input more than one observation, for example, you want to add the second limit=34000, age=45, bill= 24000 then you can input : <br>
-<i><b>{"limit":[20000,34000],"age":[24,45],"bill":[30000,24000]}</i></b>.<br> You can add as much as you like using this format.<br> Example if one observation    ![](https://raw.githubusercontent.com/andreasmmadjiah/Testing-pythonanywhere-/master/image/Example%20using%20one%20obs.PNG)
+<i><b>{"limit":[20000,34000],"age":[24,45],"bill":[30000,24000]}</i></b>.<br> Or if you want to use 10 observation you can use : <b><i> {"limit":[12000,120000,21000,31000,145000,12000,120000,21000,31000,145000], "age":[23,32,43,60,20,46,34,55,23,62],"bill":[22000,110000,19000,29000,8000,22000,110000,19000,29000,8000]}</b></i>. <br>You can add as much as you like using this format.<br> Example if one observation    ![](https://raw.githubusercontent.com/andreasmmadjiah/Testing-pythonanywhere-/master/image/Example%20using%20one%20obs.PNG)
     For more than one obs :![](https://raw.githubusercontent.com/andreasmmadjiah/REST-API-testing/master/image/Example%20using%2010%20obs.PNG)
 9. After you are ready, just click ``SEND`` beside URL that you already input. (Like above pic)
 10. Your result will be showed in the bottom <br> ![](https://raw.githubusercontent.com/andreasmmadjiah/REST-API-testing/master/image/result.PNG)
