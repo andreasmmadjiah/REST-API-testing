@@ -28,5 +28,4 @@ We are creating <b><i>random forrest</b></i> model, which is basicaly ensemble m
     For more than one obs :![](https://raw.githubusercontent.com/andreasmmadjiah/REST-API-testing/master/image/Example%20using%2010%20obs.PNG)
 9. After you are ready, just click ``SEND`` beside URL that you already input. (Like above pic)
 10. Your result will be showed in the bottom <br> ![](https://raw.githubusercontent.com/andreasmmadjiah/REST-API-testing/master/image/result.PNG)
-11. DONE! you can change your data as much as you like 
- 
+11. DONE! you can change your data as much as you like.
