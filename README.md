@@ -8,6 +8,7 @@ In our Random Forrest, we are using 3 collumn, <i>limit, age</i>, and <i>bill</i
 
 We are creating random forrest model that we uploaded to <b>pythonanywhere</b> and using <b>postman</b>. Using <b>pythonanywhere</b>, we creating a server for other users to access our random forrest model. To access it, follow this step :
 <br><br>
+<b>
 1. (go to next step if you already have chrome)Download google chrome. It's not mandatory, but because we use <b>postmen</b> extension, it is recomended to use chrome. Access this link to download chrome : [Click Here to download Chrome](https://www.google.com/chrome/) 
 2. After you download chrome, install <b>postman</b> extension by [click here to download postman extension](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) 
    - After you install it, just launch the app
@@ -20,10 +21,9 @@ We are creating random forrest model that we uploaded to <b>pythonanywhere</b> a
     ![](https://raw.githubusercontent.com/andreasmmadjiah/Testing-pythonanywhere-/master/image/Example%20using%20one%20obs.PNG)
     <br>
     For more than one obs <br>
-    
     ![](https://raw.githubusercontent.com/andreasmmadjiah/Testing-pythonanywhere-/master/image/Example%20using%2010%20obs.PNG)
-    
     - After you are ready, just click ``SEND`` beside URL that you already input. (Like above pic)
     - Your result will be showed in the bottom
     - DONE! you can change your data as much as you like 
  
+</b>
