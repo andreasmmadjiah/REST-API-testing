@@ -20,6 +20,7 @@ We are creating random forrest model that we uploaded to <b>pythonanywhere</b> a
     ![](https://raw.githubusercontent.com/andreasmmadjiah/Testing-pythonanywhere-/master/image/Example%20using%20one%20obs.PNG)
     <br>
     For more than one obs <br>
+    
     ![](https://raw.githubusercontent.com/andreasmmadjiah/Testing-pythonanywhere-/master/image/Example%20using%2010%20obs.PNG)
     
     - After you are ready, just click SEND beside URL that you already input. (Like above pic)
